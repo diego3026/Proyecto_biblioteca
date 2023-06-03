@@ -1,0 +1,3 @@
+diego;1234;true
+mafe;1234;false
+andres;1234;false

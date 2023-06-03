@@ -1,0 +1,8 @@
+101;psicoanalisis;diego;2002;psicologia
+101;psicoanalisis;diego;2002;psicologia
+101;las voces;german;2000;misterio
+101;las VoceS;german;2000;misterio
+101;psicoAnalisis;diego;2002;psicologia
+101;el zorro;sergio molina;2014;accion
+102;el zorro;sergio molina;2014;accion
+101;psicoanalisis;diego;2002;psicologia

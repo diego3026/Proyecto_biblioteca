@@ -1,0 +1,4 @@
+el psicoanalista;Martin Perez;1990;Psicologico
+las voces;german;2000;misterio
+el zorro;sergio molina;2014;accion
+psicoanalisis;diego;2002;psicologia
